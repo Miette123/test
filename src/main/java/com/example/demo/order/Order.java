@@ -4,6 +4,7 @@ public class Order {
 	private Long id;
 	private String orderName;
 	private String orderTime;
+	private String content;
 	public Long getId() {
 		return id;
 	}
